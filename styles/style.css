@@ -135,6 +135,9 @@ main{
     .container{
         width: 100%;
     }
+    .course{
+        margin-top: 25px;
+    }
     
 }
 
@@ -143,5 +146,8 @@ main{
 @media only screen and (min-width:688px) and (max-width:992px) {
     .container{
         width: 100%;
+    }
+    .course{
+        margin-top: 15px;
     }
 }
